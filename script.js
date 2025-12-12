@@ -12,9 +12,16 @@
 
 
 
-// post decrement
+// post decrement:
 
+
+// let num1 = 4;
+// let num2 = num1--;
+// console.log(num1);
+
+
+// Pre Increment :
 
 let num1 = 4;
-let num2 = num1--;
+let num2 = --num1;
 console.log(num1);
